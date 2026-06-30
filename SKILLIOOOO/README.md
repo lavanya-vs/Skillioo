@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# ðŸŽ“ Skillio
+#  Skillio
 
 ### *Learn Smarter. Grow Faster.*
 
