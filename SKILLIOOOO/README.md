@@ -244,7 +244,7 @@ All rights reserved.
 
 <div align="center">
 
-Built by the **Skillio Team**
+Built by the **Lavanya V S**
 
 *"Learn without limits."*
 
